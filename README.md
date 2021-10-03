@@ -9,7 +9,8 @@ In this analysis I will be examining ride-sharing data by city type to summarize
 
 The total amount of rides and drivers was far greater in urban cities than it was in rural and suburban cities. However, the average fare per ride and the average fare per driver was highest in rural cities. Overall the total fare was largest in urban cities, while the lowest total fares came from rural cities.
 
-![This is an image]()
+PyBer Data Snyopsis:
+![This is an image](https://github.com/ddigioac/PyBer_Analysis/blob/4a3d5f031231f7f84792e163282c9c36200c8cad/PyBer%20DataFrame.png)
 
 ![This is an image]()
 
